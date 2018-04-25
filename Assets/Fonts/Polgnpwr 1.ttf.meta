@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: e1aa87a8b725948a3a08267a968834b1
+timeCreated: 1524595138
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Polygon Power
+  fontNames:
+  - Polygon Power
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 8910575125d5f4568bc43d46934cd8f9, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

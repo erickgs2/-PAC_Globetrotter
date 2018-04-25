@@ -1,0 +1,1186 @@
+fileFormatVersion: 2
+guid: aa618bfc685c649c0b8d5acc8458d4e3
+timeCreated: 1524508806
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: bina4:group1
+    100002: bina4:pCube1
+    100004: bina4:pCube38
+    100006: bina4:pCube39
+    100008: bina4:pCube40
+    100010: bina4:pCube41
+    100012: bina4:pCube42
+    100014: bina4:pCube43
+    100016: bina4:pCube44
+    100018: bina4:pCube45
+    100020: bina4:pCube46
+    100022: bina4:pCube47
+    100024: bina4:pCube48
+    100026: bina4:pCube49
+    100028: bina4:pCube50
+    100030: bina4:pCube51
+    100032: bina4:pCube52
+    100034: bina4:pCube53
+    100036: bina4:pCube54
+    100038: bina4:pCube55
+    100040: bina4:pCube56
+    100042: bina4:pCube57
+    100044: bina4:pCube58
+    100046: bina4:pCube59
+    100048: bina4:pCube6
+    100050: bina4:pCube60
+    100052: bina4:pCube61
+    100054: bina4:pCube7
+    100056: bina4:pCube8
+    100058: bina4:pencere_buyuk
+    100060: bina4:pencere_buyuk1
+    100062: bina4:pencere_ic
+    100064: bina4:pencere_ic1
+    100066: bina4:Pencere_kucuk
+    100068: bina4:Pencere_kucuk1
+    100070: bina4:Pencere_kucuk2
+    100072: bina4:polySurface1
+    100074: bina4:polySurface10
+    100076: bina4:polySurface2
+    100078: bina4:polySurface9
+    100080: bina4:tam_kat
+    100082: bina4:tam_kat1
+    100084: bina4:tam_kat2
+    100086: bina4:tam_kat3
+    100088: bina4:tam_kat4
+    100090: bina4:tam_kat5
+    100092: bina4:transform1
+    100094: bina4:transform10
+    100096: bina4:transform10 1
+    100098: bina4:transform11
+    100100: bina4:transform12
+    100102: bina4:transform13
+    100104: bina4:transform14
+    100106: bina4:transform15
+    100108: bina4:transform16
+    100110: bina4:transform17
+    100112: bina4:transform18
+    100114: bina4:transform19
+    100116: bina4:transform2
+    100118: bina4:transform20
+    100120: bina4:transform21
+    100122: bina4:transform22
+    100124: bina4:transform23
+    100126: bina4:transform24
+    100128: bina4:transform25
+    100130: bina4:transform26
+    100132: bina4:transform27
+    100134: bina4:transform28
+    100136: bina4:transform29
+    100138: bina4:transform3
+    100140: bina4:transform30
+    100142: bina4:transform31
+    100144: bina4:transform32
+    100146: bina4:transform4
+    100148: bina4:transform5
+    100150: bina4:transform6
+    100152: bina4:transform7
+    100154: bina4:transform8
+    100156: bina4:transform9
+    100158: bina4:transform9 1
+    100160: bina5:group1
+    100162: bina5:pCube1
+    100164: bina5:pCube38
+    100166: bina5:pCube39
+    100168: bina5:pCube40
+    100170: bina5:pCube41
+    100172: bina5:pCube42
+    100174: bina5:pCube43
+    100176: bina5:pCube44
+    100178: bina5:pCube45
+    100180: bina5:pCube46
+    100182: bina5:pCube47
+    100184: bina5:pCube48
+    100186: bina5:pCube49
+    100188: bina5:pCube50
+    100190: bina5:pCube51
+    100192: bina5:pCube52
+    100194: bina5:pCube53
+    100196: bina5:pCube54
+    100198: bina5:pCube55
+    100200: bina5:pCube56
+    100202: bina5:pCube57
+    100204: bina5:pCube58
+    100206: bina5:pCube59
+    100208: bina5:pCube6
+    100210: bina5:pCube60
+    100212: bina5:pCube61
+    100214: bina5:pCube7
+    100216: bina5:pCube8
+    100218: bina5:pencere_buyuk
+    100220: bina5:pencere_buyuk1
+    100222: bina5:pencere_ic
+    100224: bina5:pencere_ic1
+    100226: bina5:Pencere_kucuk
+    100228: bina5:Pencere_kucuk1
+    100230: bina5:Pencere_kucuk2
+    100232: bina5:polySurface1
+    100234: bina5:polySurface10
+    100236: bina5:polySurface2
+    100238: bina5:polySurface9
+    100240: bina5:tam_kat
+    100242: bina5:tam_kat1
+    100244: bina5:tam_kat2
+    100246: bina5:tam_kat3
+    100248: bina5:tam_kat4
+    100250: bina5:tam_kat5
+    100252: bina5:transform1
+    100254: bina5:transform10
+    100256: bina5:transform11
+    100258: bina5:transform12
+    100260: bina5:transform13
+    100262: bina5:transform14
+    100264: bina5:transform15
+    100266: bina5:transform16
+    100268: bina5:transform17
+    100270: bina5:transform18
+    100272: bina5:transform19
+    100274: bina5:transform2
+    100276: bina5:transform20
+    100278: bina5:transform21
+    100280: bina5:transform22
+    100282: bina5:transform23
+    100284: bina5:transform24
+    100286: bina5:transform25
+    100288: bina5:transform26
+    100290: bina5:transform27
+    100292: bina5:transform28
+    100294: bina5:transform29
+    100296: bina5:transform3
+    100298: bina5:transform30
+    100300: bina5:transform31
+    100302: bina5:transform32
+    100304: bina5:transform4
+    100306: bina5:transform5
+    100308: bina5:transform6
+    100310: bina5:transform7
+    100312: bina5:transform8
+    100314: bina5:transform9
+    100316: bina6:group1
+    100318: bina6:pCube1
+    100320: bina6:pCube10
+    100322: bina6:pCube10 1
+    100324: bina6:pCube10 2
+    100326: bina6:pCube11
+    100328: bina6:pCube11 1
+    100330: bina6:pCube11 2
+    100332: bina6:pCube12
+    100334: bina6:pCube12 1
+    100336: bina6:pCube12 2
+    100338: bina6:pCube13
+    100340: bina6:pCube13 1
+    100342: bina6:pCube13 2
+    100344: bina6:pCube14
+    100346: bina6:pCube14 1
+    100348: bina6:pCube14 2
+    100350: bina6:pCube15
+    100352: bina6:pCube15 1
+    100354: bina6:pCube15 2
+    100356: bina6:pCube16
+    100358: bina6:pCube16 1
+    100360: bina6:pCube16 2
+    100362: bina6:pCube17
+    100364: bina6:pCube17 1
+    100366: bina6:pCube17 2
+    100368: bina6:pCube18
+    100370: bina6:pCube18 1
+    100372: bina6:pCube18 2
+    100374: bina6:pCube19
+    100376: bina6:pCube19 1
+    100378: bina6:pCube19 2
+    100380: bina6:pCube2
+    100382: bina6:pCube2 1
+    100384: bina6:pCube2 2
+    100386: bina6:pCube20
+    100388: bina6:pCube20 1
+    100390: bina6:pCube20 2
+    100392: bina6:pCube21
+    100394: bina6:pCube21 1
+    100396: bina6:pCube21 2
+    100398: bina6:pCube22
+    100400: bina6:pCube22 1
+    100402: bina6:pCube22 2
+    100404: bina6:pCube23
+    100406: bina6:pCube23 1
+    100408: bina6:pCube23 2
+    100410: bina6:pCube24
+    100412: bina6:pCube24 1
+    100414: bina6:pCube24 2
+    100416: bina6:pCube25
+    100418: bina6:pCube25 1
+    100420: bina6:pCube25 2
+    100422: bina6:pCube26
+    100424: bina6:pCube26 1
+    100426: bina6:pCube26 2
+    100428: bina6:pCube27
+    100430: bina6:pCube27 1
+    100432: bina6:pCube27 2
+    100434: bina6:pCube28
+    100436: bina6:pCube28 1
+    100438: bina6:pCube28 2
+    100440: bina6:pCube29
+    100442: bina6:pCube29 1
+    100444: bina6:pCube29 2
+    100446: bina6:pCube3
+    100448: bina6:pCube3 1
+    100450: bina6:pCube3 2
+    100452: bina6:pCube30
+    100454: bina6:pCube30 1
+    100456: bina6:pCube30 2
+    100458: bina6:pCube31
+    100460: bina6:pCube31 1
+    100462: bina6:pCube31 2
+    100464: bina6:pCube32
+    100466: bina6:pCube32 1
+    100468: bina6:pCube32 2
+    100470: bina6:pCube33
+    100472: bina6:pCube33 1
+    100474: bina6:pCube33 2
+    100476: bina6:pCube34
+    100478: bina6:pCube34 1
+    100480: bina6:pCube34 2
+    100482: bina6:pCube35
+    100484: bina6:pCube35 1
+    100486: bina6:pCube35 2
+    100488: bina6:pCube36
+    100490: bina6:pCube36 1
+    100492: bina6:pCube36 2
+    100494: bina6:pCube37
+    100496: bina6:pCube38
+    100498: bina6:pCube39
+    100500: bina6:pCube4
+    100502: bina6:pCube4 1
+    100504: bina6:pCube4 2
+    100506: bina6:pCube40
+    100508: bina6:pCube41
+    100510: bina6:pCube42
+    100512: bina6:pCube43
+    100514: bina6:pCube44
+    100516: bina6:pCube45
+    100518: bina6:pCube46
+    100520: bina6:pCube47
+    100522: bina6:pCube48
+    100524: bina6:pCube49
+    100526: bina6:pCube5
+    100528: bina6:pCube5 1
+    100530: bina6:pCube5 2
+    100532: bina6:pCube50
+    100534: bina6:pCube51
+    100536: bina6:pCube52
+    100538: bina6:pCube53
+    100540: bina6:pCube54
+    100542: bina6:pCube55
+    100544: bina6:pCube56
+    100546: bina6:pCube57
+    100548: bina6:pCube58
+    100550: bina6:pCube59
+    100552: bina6:pCube6
+    100554: bina6:pCube60
+    100556: bina6:pCube61
+    100558: bina6:pCube7
+    100560: bina6:pCube8
+    100562: bina6:pCube9
+    100564: bina6:pCube9 1
+    100566: bina6:pCube9 2
+    100568: bina6:pencere_buyuk
+    100570: bina6:pencere_buyuk1
+    100572: bina6:pencere_ic
+    100574: bina6:pencere_ic1
+    100576: bina6:Pencere_kucuk
+    100578: bina6:Pencere_kucuk1
+    100580: bina6:Pencere_kucuk2
+    100582: bina6:polySurface1
+    100584: bina6:polySurface10
+    100586: bina6:polySurface11
+    100588: bina6:polySurface12
+    100590: bina6:polySurface13
+    100592: bina6:polySurface14
+    100594: bina6:polySurface2
+    100596: bina6:polySurface3
+    100598: bina6:polySurface3 1
+    100600: bina6:polySurface3 2
+    100602: bina6:polySurface4
+    100604: bina6:polySurface4 1
+    100606: bina6:polySurface4 2
+    100608: bina6:polySurface5
+    100610: bina6:polySurface5 1
+    100612: bina6:polySurface5 2
+    100614: bina6:polySurface6
+    100616: bina6:polySurface6 1
+    100618: bina6:polySurface6 2
+    100620: bina6:polySurface7
+    100622: bina6:polySurface7 1
+    100624: bina6:polySurface7 2
+    100626: bina6:polySurface8
+    100628: bina6:polySurface8 1
+    100630: bina6:polySurface8 2
+    100632: bina6:polySurface9
+    100634: bina6:tam_kat
+    100636: bina6:tam_kat1
+    100638: bina6:tam_kat2
+    100640: bina6:tam_kat3
+    100642: bina6:tam_kat4
+    100644: bina6:tam_kat5
+    100646: bina6:transform1
+    100648: bina6:transform10
+    100650: bina6:transform10 1
+    100652: bina6:transform11
+    100654: bina6:transform12
+    100656: bina6:transform13
+    100658: bina6:transform14
+    100660: bina6:transform15
+    100662: bina6:transform16
+    100664: bina6:transform17
+    100666: bina6:transform18
+    100668: bina6:transform19
+    100670: bina6:transform2
+    100672: bina6:transform20
+    100674: bina6:transform21
+    100676: bina6:transform22
+    100678: bina6:transform23
+    100680: bina6:transform24
+    100682: bina6:transform25
+    100684: bina6:transform26
+    100686: bina6:transform27
+    100688: bina6:transform28
+    100690: bina6:transform29
+    100692: bina6:transform3
+    100694: bina6:transform30
+    100696: bina6:transform31
+    100698: bina6:transform32
+    100700: bina6:transform4
+    100702: bina6:transform5
+    100704: bina6:transform6
+    100706: bina6:transform7
+    100708: bina6:transform8
+    100710: bina6:transform9
+    100712: bina6:transform9 1
+    100714: //RootNode
+    400000: bina4:group1
+    400002: bina4:pCube1
+    400004: bina4:pCube38
+    400006: bina4:pCube39
+    400008: bina4:pCube40
+    400010: bina4:pCube41
+    400012: bina4:pCube42
+    400014: bina4:pCube43
+    400016: bina4:pCube44
+    400018: bina4:pCube45
+    400020: bina4:pCube46
+    400022: bina4:pCube47
+    400024: bina4:pCube48
+    400026: bina4:pCube49
+    400028: bina4:pCube50
+    400030: bina4:pCube51
+    400032: bina4:pCube52
+    400034: bina4:pCube53
+    400036: bina4:pCube54
+    400038: bina4:pCube55
+    400040: bina4:pCube56
+    400042: bina4:pCube57
+    400044: bina4:pCube58
+    400046: bina4:pCube59
+    400048: bina4:pCube6
+    400050: bina4:pCube60
+    400052: bina4:pCube61
+    400054: bina4:pCube7
+    400056: bina4:pCube8
+    400058: bina4:pencere_buyuk
+    400060: bina4:pencere_buyuk1
+    400062: bina4:pencere_ic
+    400064: bina4:pencere_ic1
+    400066: bina4:Pencere_kucuk
+    400068: bina4:Pencere_kucuk1
+    400070: bina4:Pencere_kucuk2
+    400072: bina4:polySurface1
+    400074: bina4:polySurface10
+    400076: bina4:polySurface2
+    400078: bina4:polySurface9
+    400080: bina4:tam_kat
+    400082: bina4:tam_kat1
+    400084: bina4:tam_kat2
+    400086: bina4:tam_kat3
+    400088: bina4:tam_kat4
+    400090: bina4:tam_kat5
+    400092: bina4:transform1
+    400094: bina4:transform10
+    400096: bina4:transform10 1
+    400098: bina4:transform11
+    400100: bina4:transform12
+    400102: bina4:transform13
+    400104: bina4:transform14
+    400106: bina4:transform15
+    400108: bina4:transform16
+    400110: bina4:transform17
+    400112: bina4:transform18
+    400114: bina4:transform19
+    400116: bina4:transform2
+    400118: bina4:transform20
+    400120: bina4:transform21
+    400122: bina4:transform22
+    400124: bina4:transform23
+    400126: bina4:transform24
+    400128: bina4:transform25
+    400130: bina4:transform26
+    400132: bina4:transform27
+    400134: bina4:transform28
+    400136: bina4:transform29
+    400138: bina4:transform3
+    400140: bina4:transform30
+    400142: bina4:transform31
+    400144: bina4:transform32
+    400146: bina4:transform4
+    400148: bina4:transform5
+    400150: bina4:transform6
+    400152: bina4:transform7
+    400154: bina4:transform8
+    400156: bina4:transform9
+    400158: bina4:transform9 1
+    400160: bina5:group1
+    400162: bina5:pCube1
+    400164: bina5:pCube38
+    400166: bina5:pCube39
+    400168: bina5:pCube40
+    400170: bina5:pCube41
+    400172: bina5:pCube42
+    400174: bina5:pCube43
+    400176: bina5:pCube44
+    400178: bina5:pCube45
+    400180: bina5:pCube46
+    400182: bina5:pCube47
+    400184: bina5:pCube48
+    400186: bina5:pCube49
+    400188: bina5:pCube50
+    400190: bina5:pCube51
+    400192: bina5:pCube52
+    400194: bina5:pCube53
+    400196: bina5:pCube54
+    400198: bina5:pCube55
+    400200: bina5:pCube56
+    400202: bina5:pCube57
+    400204: bina5:pCube58
+    400206: bina5:pCube59
+    400208: bina5:pCube6
+    400210: bina5:pCube60
+    400212: bina5:pCube61
+    400214: bina5:pCube7
+    400216: bina5:pCube8
+    400218: bina5:pencere_buyuk
+    400220: bina5:pencere_buyuk1
+    400222: bina5:pencere_ic
+    400224: bina5:pencere_ic1
+    400226: bina5:Pencere_kucuk
+    400228: bina5:Pencere_kucuk1
+    400230: bina5:Pencere_kucuk2
+    400232: bina5:polySurface1
+    400234: bina5:polySurface10
+    400236: bina5:polySurface2
+    400238: bina5:polySurface9
+    400240: bina5:tam_kat
+    400242: bina5:tam_kat1
+    400244: bina5:tam_kat2
+    400246: bina5:tam_kat3
+    400248: bina5:tam_kat4
+    400250: bina5:tam_kat5
+    400252: bina5:transform1
+    400254: bina5:transform10
+    400256: bina5:transform11
+    400258: bina5:transform12
+    400260: bina5:transform13
+    400262: bina5:transform14
+    400264: bina5:transform15
+    400266: bina5:transform16
+    400268: bina5:transform17
+    400270: bina5:transform18
+    400272: bina5:transform19
+    400274: bina5:transform2
+    400276: bina5:transform20
+    400278: bina5:transform21
+    400280: bina5:transform22
+    400282: bina5:transform23
+    400284: bina5:transform24
+    400286: bina5:transform25
+    400288: bina5:transform26
+    400290: bina5:transform27
+    400292: bina5:transform28
+    400294: bina5:transform29
+    400296: bina5:transform3
+    400298: bina5:transform30
+    400300: bina5:transform31
+    400302: bina5:transform32
+    400304: bina5:transform4
+    400306: bina5:transform5
+    400308: bina5:transform6
+    400310: bina5:transform7
+    400312: bina5:transform8
+    400314: bina5:transform9
+    400316: bina6:group1
+    400318: bina6:pCube1
+    400320: bina6:pCube10
+    400322: bina6:pCube10 1
+    400324: bina6:pCube10 2
+    400326: bina6:pCube11
+    400328: bina6:pCube11 1
+    400330: bina6:pCube11 2
+    400332: bina6:pCube12
+    400334: bina6:pCube12 1
+    400336: bina6:pCube12 2
+    400338: bina6:pCube13
+    400340: bina6:pCube13 1
+    400342: bina6:pCube13 2
+    400344: bina6:pCube14
+    400346: bina6:pCube14 1
+    400348: bina6:pCube14 2
+    400350: bina6:pCube15
+    400352: bina6:pCube15 1
+    400354: bina6:pCube15 2
+    400356: bina6:pCube16
+    400358: bina6:pCube16 1
+    400360: bina6:pCube16 2
+    400362: bina6:pCube17
+    400364: bina6:pCube17 1
+    400366: bina6:pCube17 2
+    400368: bina6:pCube18
+    400370: bina6:pCube18 1
+    400372: bina6:pCube18 2
+    400374: bina6:pCube19
+    400376: bina6:pCube19 1
+    400378: bina6:pCube19 2
+    400380: bina6:pCube2
+    400382: bina6:pCube2 1
+    400384: bina6:pCube2 2
+    400386: bina6:pCube20
+    400388: bina6:pCube20 1
+    400390: bina6:pCube20 2
+    400392: bina6:pCube21
+    400394: bina6:pCube21 1
+    400396: bina6:pCube21 2
+    400398: bina6:pCube22
+    400400: bina6:pCube22 1
+    400402: bina6:pCube22 2
+    400404: bina6:pCube23
+    400406: bina6:pCube23 1
+    400408: bina6:pCube23 2
+    400410: bina6:pCube24
+    400412: bina6:pCube24 1
+    400414: bina6:pCube24 2
+    400416: bina6:pCube25
+    400418: bina6:pCube25 1
+    400420: bina6:pCube25 2
+    400422: bina6:pCube26
+    400424: bina6:pCube26 1
+    400426: bina6:pCube26 2
+    400428: bina6:pCube27
+    400430: bina6:pCube27 1
+    400432: bina6:pCube27 2
+    400434: bina6:pCube28
+    400436: bina6:pCube28 1
+    400438: bina6:pCube28 2
+    400440: bina6:pCube29
+    400442: bina6:pCube29 1
+    400444: bina6:pCube29 2
+    400446: bina6:pCube3
+    400448: bina6:pCube3 1
+    400450: bina6:pCube3 2
+    400452: bina6:pCube30
+    400454: bina6:pCube30 1
+    400456: bina6:pCube30 2
+    400458: bina6:pCube31
+    400460: bina6:pCube31 1
+    400462: bina6:pCube31 2
+    400464: bina6:pCube32
+    400466: bina6:pCube32 1
+    400468: bina6:pCube32 2
+    400470: bina6:pCube33
+    400472: bina6:pCube33 1
+    400474: bina6:pCube33 2
+    400476: bina6:pCube34
+    400478: bina6:pCube34 1
+    400480: bina6:pCube34 2
+    400482: bina6:pCube35
+    400484: bina6:pCube35 1
+    400486: bina6:pCube35 2
+    400488: bina6:pCube36
+    400490: bina6:pCube36 1
+    400492: bina6:pCube36 2
+    400494: bina6:pCube37
+    400496: bina6:pCube38
+    400498: bina6:pCube39
+    400500: bina6:pCube4
+    400502: bina6:pCube4 1
+    400504: bina6:pCube4 2
+    400506: bina6:pCube40
+    400508: bina6:pCube41
+    400510: bina6:pCube42
+    400512: bina6:pCube43
+    400514: bina6:pCube44
+    400516: bina6:pCube45
+    400518: bina6:pCube46
+    400520: bina6:pCube47
+    400522: bina6:pCube48
+    400524: bina6:pCube49
+    400526: bina6:pCube5
+    400528: bina6:pCube5 1
+    400530: bina6:pCube5 2
+    400532: bina6:pCube50
+    400534: bina6:pCube51
+    400536: bina6:pCube52
+    400538: bina6:pCube53
+    400540: bina6:pCube54
+    400542: bina6:pCube55
+    400544: bina6:pCube56
+    400546: bina6:pCube57
+    400548: bina6:pCube58
+    400550: bina6:pCube59
+    400552: bina6:pCube6
+    400554: bina6:pCube60
+    400556: bina6:pCube61
+    400558: bina6:pCube7
+    400560: bina6:pCube8
+    400562: bina6:pCube9
+    400564: bina6:pCube9 1
+    400566: bina6:pCube9 2
+    400568: bina6:pencere_buyuk
+    400570: bina6:pencere_buyuk1
+    400572: bina6:pencere_ic
+    400574: bina6:pencere_ic1
+    400576: bina6:Pencere_kucuk
+    400578: bina6:Pencere_kucuk1
+    400580: bina6:Pencere_kucuk2
+    400582: bina6:polySurface1
+    400584: bina6:polySurface10
+    400586: bina6:polySurface11
+    400588: bina6:polySurface12
+    400590: bina6:polySurface13
+    400592: bina6:polySurface14
+    400594: bina6:polySurface2
+    400596: bina6:polySurface3
+    400598: bina6:polySurface3 1
+    400600: bina6:polySurface3 2
+    400602: bina6:polySurface4
+    400604: bina6:polySurface4 1
+    400606: bina6:polySurface4 2
+    400608: bina6:polySurface5
+    400610: bina6:polySurface5 1
+    400612: bina6:polySurface5 2
+    400614: bina6:polySurface6
+    400616: bina6:polySurface6 1
+    400618: bina6:polySurface6 2
+    400620: bina6:polySurface7
+    400622: bina6:polySurface7 1
+    400624: bina6:polySurface7 2
+    400626: bina6:polySurface8
+    400628: bina6:polySurface8 1
+    400630: bina6:polySurface8 2
+    400632: bina6:polySurface9
+    400634: bina6:tam_kat
+    400636: bina6:tam_kat1
+    400638: bina6:tam_kat2
+    400640: bina6:tam_kat3
+    400642: bina6:tam_kat4
+    400644: bina6:tam_kat5
+    400646: bina6:transform1
+    400648: bina6:transform10
+    400650: bina6:transform10 1
+    400652: bina6:transform11
+    400654: bina6:transform12
+    400656: bina6:transform13
+    400658: bina6:transform14
+    400660: bina6:transform15
+    400662: bina6:transform16
+    400664: bina6:transform17
+    400666: bina6:transform18
+    400668: bina6:transform19
+    400670: bina6:transform2
+    400672: bina6:transform20
+    400674: bina6:transform21
+    400676: bina6:transform22
+    400678: bina6:transform23
+    400680: bina6:transform24
+    400682: bina6:transform25
+    400684: bina6:transform26
+    400686: bina6:transform27
+    400688: bina6:transform28
+    400690: bina6:transform29
+    400692: bina6:transform3
+    400694: bina6:transform30
+    400696: bina6:transform31
+    400698: bina6:transform32
+    400700: bina6:transform4
+    400702: bina6:transform5
+    400704: bina6:transform6
+    400706: bina6:transform7
+    400708: bina6:transform8
+    400710: bina6:transform9
+    400712: bina6:transform9 1
+    400714: //RootNode
+    2100000: lambert1
+    2100002: lambert3
+    2100004: lambert9
+    2100006: lambert5
+    2100008: blinn2
+    2100010: lambert14
+    2100012: blinn7
+    2100014: lambert8
+    2100016: blinn18
+    2100018: lambert4
+    2100020: blinn1
+    2100022: lambert10
+    2100024: lambert11
+    2100026: blinn4
+    2100028: lambert12
+    2100030: blinn8
+    2100032: phong1
+    2100034: blinn14
+    2100036: blinn3
+    2100038: blinn5
+    2100040: lambert6
+    2100042: lambert7
+    2100044: blinn15
+    2100046: blinn16
+    2100048: blinn11
+    2300000: bina6:pCube10
+    2300002: bina6:pCube10 1
+    2300004: bina6:pCube10 2
+    2300006: bina6:pCube11
+    2300008: bina6:pCube11 1
+    2300010: bina6:pCube11 2
+    2300012: bina6:pCube12
+    2300014: bina6:pCube12 1
+    2300016: bina6:pCube12 2
+    2300018: bina6:pCube13
+    2300020: bina6:pCube13 1
+    2300022: bina6:pCube13 2
+    2300024: bina6:pCube14
+    2300026: bina6:pCube14 1
+    2300028: bina6:pCube14 2
+    2300030: bina6:pCube15
+    2300032: bina6:pCube15 1
+    2300034: bina6:pCube15 2
+    2300036: bina6:pCube16
+    2300038: bina6:pCube16 1
+    2300040: bina6:pCube16 2
+    2300042: bina6:pCube17
+    2300044: bina6:pCube17 1
+    2300046: bina6:pCube17 2
+    2300048: bina6:pCube18
+    2300050: bina6:pCube18 1
+    2300052: bina6:pCube18 2
+    2300054: bina6:pCube19
+    2300056: bina6:pCube19 1
+    2300058: bina6:pCube19 2
+    2300060: bina6:pCube2
+    2300062: bina6:pCube2 1
+    2300064: bina6:pCube2 2
+    2300066: bina6:pCube20
+    2300068: bina6:pCube20 1
+    2300070: bina6:pCube20 2
+    2300072: bina6:pCube21
+    2300074: bina6:pCube21 1
+    2300076: bina6:pCube21 2
+    2300078: bina6:pCube22
+    2300080: bina6:pCube22 1
+    2300082: bina6:pCube22 2
+    2300084: bina6:pCube23
+    2300086: bina6:pCube23 1
+    2300088: bina6:pCube23 2
+    2300090: bina6:pCube24
+    2300092: bina6:pCube24 1
+    2300094: bina6:pCube24 2
+    2300096: bina6:pCube25
+    2300098: bina6:pCube25 1
+    2300100: bina6:pCube25 2
+    2300102: bina6:pCube26
+    2300104: bina6:pCube26 1
+    2300106: bina6:pCube26 2
+    2300108: bina6:pCube27
+    2300110: bina6:pCube27 1
+    2300112: bina6:pCube27 2
+    2300114: bina6:pCube28
+    2300116: bina6:pCube28 1
+    2300118: bina6:pCube28 2
+    2300120: bina6:pCube29
+    2300122: bina6:pCube29 1
+    2300124: bina6:pCube29 2
+    2300126: bina6:pCube3
+    2300128: bina6:pCube3 1
+    2300130: bina6:pCube3 2
+    2300132: bina6:pCube30
+    2300134: bina6:pCube30 1
+    2300136: bina6:pCube30 2
+    2300138: bina6:pCube31
+    2300140: bina6:pCube31 1
+    2300142: bina6:pCube31 2
+    2300144: bina6:pCube32
+    2300146: bina6:pCube32 1
+    2300148: bina6:pCube32 2
+    2300150: bina6:pCube33
+    2300152: bina6:pCube33 1
+    2300154: bina6:pCube33 2
+    2300156: bina6:pCube34
+    2300158: bina6:pCube34 1
+    2300160: bina6:pCube34 2
+    2300162: bina6:pCube35
+    2300164: bina6:pCube35 1
+    2300166: bina6:pCube35 2
+    2300168: bina6:pCube36
+    2300170: bina6:pCube36 1
+    2300172: bina6:pCube36 2
+    2300174: bina6:pCube37
+    2300176: bina6:pCube4
+    2300178: bina6:pCube4 1
+    2300180: bina6:pCube4 2
+    2300182: bina6:pCube5
+    2300184: bina6:pCube5 1
+    2300186: bina6:pCube5 2
+    2300188: bina6:pCube9
+    2300190: bina6:pCube9 1
+    2300192: bina6:pCube9 2
+    2300194: bina6:polySurface11
+    2300196: bina6:polySurface12
+    2300198: bina6:polySurface13
+    2300200: bina6:polySurface14
+    2300202: bina6:polySurface3
+    2300204: bina6:polySurface3 1
+    2300206: bina6:polySurface3 2
+    2300208: bina6:polySurface4
+    2300210: bina6:polySurface4 1
+    2300212: bina6:polySurface4 2
+    2300214: bina6:polySurface5
+    2300216: bina6:polySurface5 1
+    2300218: bina6:polySurface5 2
+    2300220: bina6:polySurface6
+    2300222: bina6:polySurface6 1
+    2300224: bina6:polySurface6 2
+    2300226: bina6:polySurface7
+    2300228: bina6:polySurface7 1
+    2300230: bina6:polySurface7 2
+    2300232: bina6:polySurface8
+    2300234: bina6:polySurface8 1
+    2300236: bina6:polySurface8 2
+    3300000: bina6:pCube10
+    3300002: bina6:pCube10 1
+    3300004: bina6:pCube10 2
+    3300006: bina6:pCube11
+    3300008: bina6:pCube11 1
+    3300010: bina6:pCube11 2
+    3300012: bina6:pCube12
+    3300014: bina6:pCube12 1
+    3300016: bina6:pCube12 2
+    3300018: bina6:pCube13
+    3300020: bina6:pCube13 1
+    3300022: bina6:pCube13 2
+    3300024: bina6:pCube14
+    3300026: bina6:pCube14 1
+    3300028: bina6:pCube14 2
+    3300030: bina6:pCube15
+    3300032: bina6:pCube15 1
+    3300034: bina6:pCube15 2
+    3300036: bina6:pCube16
+    3300038: bina6:pCube16 1
+    3300040: bina6:pCube16 2
+    3300042: bina6:pCube17
+    3300044: bina6:pCube17 1
+    3300046: bina6:pCube17 2
+    3300048: bina6:pCube18
+    3300050: bina6:pCube18 1
+    3300052: bina6:pCube18 2
+    3300054: bina6:pCube19
+    3300056: bina6:pCube19 1
+    3300058: bina6:pCube19 2
+    3300060: bina6:pCube2
+    3300062: bina6:pCube2 1
+    3300064: bina6:pCube2 2
+    3300066: bina6:pCube20
+    3300068: bina6:pCube20 1
+    3300070: bina6:pCube20 2
+    3300072: bina6:pCube21
+    3300074: bina6:pCube21 1
+    3300076: bina6:pCube21 2
+    3300078: bina6:pCube22
+    3300080: bina6:pCube22 1
+    3300082: bina6:pCube22 2
+    3300084: bina6:pCube23
+    3300086: bina6:pCube23 1
+    3300088: bina6:pCube23 2
+    3300090: bina6:pCube24
+    3300092: bina6:pCube24 1
+    3300094: bina6:pCube24 2
+    3300096: bina6:pCube25
+    3300098: bina6:pCube25 1
+    3300100: bina6:pCube25 2
+    3300102: bina6:pCube26
+    3300104: bina6:pCube26 1
+    3300106: bina6:pCube26 2
+    3300108: bina6:pCube27
+    3300110: bina6:pCube27 1
+    3300112: bina6:pCube27 2
+    3300114: bina6:pCube28
+    3300116: bina6:pCube28 1
+    3300118: bina6:pCube28 2
+    3300120: bina6:pCube29
+    3300122: bina6:pCube29 1
+    3300124: bina6:pCube29 2
+    3300126: bina6:pCube3
+    3300128: bina6:pCube3 1
+    3300130: bina6:pCube3 2
+    3300132: bina6:pCube30
+    3300134: bina6:pCube30 1
+    3300136: bina6:pCube30 2
+    3300138: bina6:pCube31
+    3300140: bina6:pCube31 1
+    3300142: bina6:pCube31 2
+    3300144: bina6:pCube32
+    3300146: bina6:pCube32 1
+    3300148: bina6:pCube32 2
+    3300150: bina6:pCube33
+    3300152: bina6:pCube33 1
+    3300154: bina6:pCube33 2
+    3300156: bina6:pCube34
+    3300158: bina6:pCube34 1
+    3300160: bina6:pCube34 2
+    3300162: bina6:pCube35
+    3300164: bina6:pCube35 1
+    3300166: bina6:pCube35 2
+    3300168: bina6:pCube36
+    3300170: bina6:pCube36 1
+    3300172: bina6:pCube36 2
+    3300174: bina6:pCube37
+    3300176: bina6:pCube4
+    3300178: bina6:pCube4 1
+    3300180: bina6:pCube4 2
+    3300182: bina6:pCube5
+    3300184: bina6:pCube5 1
+    3300186: bina6:pCube5 2
+    3300188: bina6:pCube9
+    3300190: bina6:pCube9 1
+    3300192: bina6:pCube9 2
+    3300194: bina6:polySurface11
+    3300196: bina6:polySurface12
+    3300198: bina6:polySurface13
+    3300200: bina6:polySurface14
+    3300202: bina6:polySurface3
+    3300204: bina6:polySurface3 1
+    3300206: bina6:polySurface3 2
+    3300208: bina6:polySurface4
+    3300210: bina6:polySurface4 1
+    3300212: bina6:polySurface4 2
+    3300214: bina6:polySurface5
+    3300216: bina6:polySurface5 1
+    3300218: bina6:polySurface5 2
+    3300220: bina6:polySurface6
+    3300222: bina6:polySurface6 1
+    3300224: bina6:polySurface6 2
+    3300226: bina6:polySurface7
+    3300228: bina6:polySurface7 1
+    3300230: bina6:polySurface7 2
+    3300232: bina6:polySurface8
+    3300234: bina6:polySurface8 1
+    3300236: bina6:polySurface8 2
+    4300000: bina6:polySurface11
+    4300002: bina6:polySurface12
+    4300004: bina6:polySurface4
+    4300006: bina6:pCube4
+    4300008: bina6:pCube5
+    4300010: bina6:pCube10
+    4300012: bina6:polySurface5
+    4300014: bina6:pCube18
+    4300016: bina6:pCube19
+    4300018: bina6:pCube20
+    4300020: bina6:polySurface3
+    4300022: bina6:polySurface6
+    4300024: bina6:pCube21
+    4300026: bina6:pCube22
+    4300028: bina6:pCube23
+    4300030: bina6:pCube2
+    4300032: bina6:pCube11
+    4300034: bina6:pCube12
+    4300036: bina6:pCube9
+    4300038: bina6:pCube13
+    4300040: bina6:pCube14
+    4300042: bina6:pCube15
+    4300044: bina6:pCube16
+    4300046: bina6:pCube3
+    4300048: bina6:pCube17
+    4300050: bina6:polySurface7
+    4300052: bina6:polySurface8
+    4300054: bina6:pCube24
+    4300056: bina6:pCube25
+    4300058: bina6:pCube26
+    4300060: bina6:pCube27
+    4300062: bina6:pCube28
+    4300064: bina6:pCube29
+    4300066: bina6:pCube30
+    4300068: bina6:pCube31
+    4300070: bina6:pCube32
+    4300072: bina6:pCube33
+    4300074: bina6:pCube34
+    4300076: bina6:pCube35
+    4300078: bina6:pCube36
+    4300080: bina6:polySurface4
+    4300082: bina6:pCube4
+    4300084: bina6:pCube5
+    4300086: bina6:pCube10
+    4300088: bina6:polySurface5
+    4300090: bina6:pCube18
+    4300092: bina6:pCube19
+    4300094: bina6:pCube20
+    4300096: bina6:polySurface3
+    4300098: bina6:polySurface6
+    4300100: bina6:pCube21
+    4300102: bina6:pCube22
+    4300104: bina6:pCube23
+    4300106: bina6:pCube2
+    4300108: bina6:pCube11
+    4300110: bina6:pCube12
+    4300112: bina6:pCube9
+    4300114: bina6:pCube13
+    4300116: bina6:pCube14
+    4300118: bina6:pCube15
+    4300120: bina6:pCube16
+    4300122: bina6:pCube3
+    4300124: bina6:pCube17
+    4300126: bina6:polySurface7
+    4300128: bina6:polySurface8
+    4300130: bina6:pCube24
+    4300132: bina6:pCube25
+    4300134: bina6:pCube26
+    4300136: bina6:pCube27
+    4300138: bina6:pCube28
+    4300140: bina6:pCube29
+    4300142: bina6:pCube30
+    4300144: bina6:pCube31
+    4300146: bina6:pCube32
+    4300148: bina6:pCube33
+    4300150: bina6:pCube34
+    4300152: bina6:pCube35
+    4300154: bina6:pCube36
+    4300156: bina6:polySurface13
+    4300158: bina6:pCube37
+    4300160: bina6:polySurface4
+    4300162: bina6:pCube4
+    4300164: bina6:pCube5
+    4300166: bina6:pCube10
+    4300168: bina6:polySurface5
+    4300170: bina6:pCube18
+    4300172: bina6:pCube19
+    4300174: bina6:pCube20
+    4300176: bina6:polySurface3
+    4300178: bina6:polySurface6
+    4300180: bina6:pCube21
+    4300182: bina6:pCube22
+    4300184: bina6:pCube23
+    4300186: bina6:pCube2
+    4300188: bina6:pCube11
+    4300190: bina6:pCube12
+    4300192: bina6:pCube9
+    4300194: bina6:pCube13
+    4300196: bina6:pCube14
+    4300198: bina6:pCube15
+    4300200: bina6:pCube16
+    4300202: bina6:pCube3
+    4300204: bina6:pCube17
+    4300206: bina6:polySurface7
+    4300208: bina6:polySurface8
+    4300210: bina6:pCube24
+    4300212: bina6:pCube25
+    4300214: bina6:pCube26
+    4300216: bina6:pCube27
+    4300218: bina6:pCube28
+    4300220: bina6:pCube29
+    4300222: bina6:pCube30
+    4300224: bina6:pCube31
+    4300226: bina6:pCube32
+    4300228: bina6:pCube33
+    4300230: bina6:pCube34
+    4300232: bina6:pCube35
+    4300234: bina6:pCube36
+    4300236: bina6:polySurface14
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
